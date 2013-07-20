@@ -7,6 +7,8 @@ ownCloud Video Viewer App for multiple video file formats such as .flv .mp4 .web
 This ownCloud APP is intended for use on 5.0+ 
 
 
+IMPORTANT: Rename "Video-Bay-master" folder to "vids" before uploading it to ownCloud apps folder
+
 Requirements:
 
   &nbsp;&nbsp;&nbsp;&nbsp;1) Have ffmpeg installed (ffmpeg used for generating video thumbnails)<br/>
