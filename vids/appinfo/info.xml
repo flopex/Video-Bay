@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<info>
+	<id>vids</id>
+	<name>Video Bay</name>
+	<description>Video Viewer App for multiple video file formats such as .flv .mp4 .webm and more.</description>
+	<licence>AGPL</licence>
+	<author>Flopex</author>
+	<shipped>true</shipped>
+	<default_enable/>
+	<require>5.0</require>
+</info>
